@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman Agrawal</h1>
-<h3 align="center">Intend on leaving a me shaped silhouette behind in the coding world : )</h3>
+<h3 align="center">Going to do some shocking stuff in this world YOLO : )</h3>
 
 - 🌱 I’m currently learning **Python**
 
